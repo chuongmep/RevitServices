@@ -1,0 +1,17 @@
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\bin\Debug\net48\RevitConsoleCommunication.dll
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\bin\Debug\net48\RevitConsoleCommunication.pdb
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\bin\Debug\net48\RevitAPI.dll
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\bin\Debug\net48\RevitAPIUI.dll
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\RevitConsoleCommunication.csproj.AssemblyReference.cache
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\RevitConsoleCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\RevitConsoleCommunication.AssemblyInfoInputs.cache
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\RevitConsoleCommunication.AssemblyInfo.cs
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\RevitConsoleCommunication.csproj.CoreCompileInputs.cache
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\RevitConsoleCommunication.csproj.CopyComplete
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\RevitConsoleCommunication.dll
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\RevitConsoleCommunication.pdb
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\Communicate.g.cs
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\RevitConsoleCommunication_MarkupCompile.cache
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\RevitConsoleCommunication_MarkupCompile.lref
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\Communicate.baml
+C:\Users\chuongho\RiderProjects\RevitServices\RevitConsoleCommunication\obj\Debug\net48\RevitConsoleCommunication.g.resources

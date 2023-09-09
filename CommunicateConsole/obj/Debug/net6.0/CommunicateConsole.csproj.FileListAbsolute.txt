@@ -1,0 +1,14 @@
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\bin\Debug\net6.0\CommunicateConsole.exe
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\bin\Debug\net6.0\CommunicateConsole.deps.json
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\bin\Debug\net6.0\CommunicateConsole.runtimeconfig.json
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\bin\Debug\net6.0\CommunicateConsole.dll
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\bin\Debug\net6.0\CommunicateConsole.pdb
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\obj\Debug\net6.0\CommunicateConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\obj\Debug\net6.0\CommunicateConsole.AssemblyInfoInputs.cache
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\obj\Debug\net6.0\CommunicateConsole.AssemblyInfo.cs
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\obj\Debug\net6.0\CommunicateConsole.csproj.CoreCompileInputs.cache
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\obj\Debug\net6.0\CommunicateConsole.dll
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\obj\Debug\net6.0\refint\CommunicateConsole.dll
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\obj\Debug\net6.0\CommunicateConsole.pdb
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\obj\Debug\net6.0\CommunicateConsole.genruntimeconfig.cache
+C:\Users\chuongho\RiderProjects\RevitServices\CommunicateConsole\obj\Debug\net6.0\ref\CommunicateConsole.dll

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chuongho\\RiderProjects\\RevitServices\\RevitServices\\RevitServices.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chuongho\\RiderProjects\\RevitServices\\RevitServices\\RevitServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chuongho\\RiderProjects\\RevitServices\\RevitServices\\RevitServices.csproj",
+        "projectName": "RevitServices",
+        "projectPath": "C:\\Users\\chuongho\\RiderProjects\\RevitServices\\RevitServices\\RevitServices.csproj",
+        "packagesPath": "C:\\Users\\chuongho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chuongho\\RiderProjects\\RevitServices\\RevitServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chuongho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\chuongho\\Downloads\\Compressed\\Autodesk.DataExchange.3.0.0-beta": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Chuongmep.Revit.Api.RevitAPI": {
+              "target": "Package",
+              "version": "[2024.*, )"
+            },
+            "Chuongmep.Revit.Api.RevitAPIUI": {
+              "target": "Package",
+              "version": "[2024.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

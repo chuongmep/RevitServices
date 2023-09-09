@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitConsoleCommunication", "RevitConsoleCommunication\RevitConsoleCommunication.csproj", "{D545F3FB-0023-4C56-841B-0B6479CCAC15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicateConsole", "CommunicateConsole\CommunicateConsole.csproj", "{849ED8C0-6A74-4FAF-9F4B-FA4D55C66195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D545F3FB-0023-4C56-841B-0B6479CCAC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D545F3FB-0023-4C56-841B-0B6479CCAC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D545F3FB-0023-4C56-841B-0B6479CCAC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D545F3FB-0023-4C56-841B-0B6479CCAC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849ED8C0-6A74-4FAF-9F4B-FA4D55C66195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849ED8C0-6A74-4FAF-9F4B-FA4D55C66195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849ED8C0-6A74-4FAF-9F4B-FA4D55C66195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849ED8C0-6A74-4FAF-9F4B-FA4D55C66195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

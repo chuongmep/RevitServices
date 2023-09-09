@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Chuongmep.Revit.Api.RevitAPI/2024.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net48/RevitAPI.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net48/RevitAPI.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Chuongmep.Revit.Api.RevitAPIUI/2024.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net48/RevitAPIUI.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net48/RevitAPIUI.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chuongmep.Revit.Api.RevitAPI/2024.1.0": {
+      "sha512": "J4sWtw+UqACixhorzPHuzM3ZK8Bs01KRJw5zGKa1lPsApzrbQwpWVe/6+Nj+oNpYTW8nyamBsmJOUqg3aLCz9A==",
+      "type": "package",
+      "path": "chuongmep.revit.api.revitapi/2024.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.md",
+        "chuongmep.revit.api.revitapi.2024.1.0.nupkg.sha512",
+        "chuongmep.revit.api.revitapi.nuspec",
+        "images/PackageIcon.png",
+        "lib/net48/RevitAPI.dll",
+        "lib/net48/RevitAPI.xml"
+      ]
+    },
+    "Chuongmep.Revit.Api.RevitAPIUI/2024.1.0": {
+      "sha512": "IOggdxpsRpIpUPS9ETdDSpvgSzYiCVCSZRzRkLveSsqP4mBEFHmb4wCUcPiUfM0EqPceO6Wh9BAJ3YmilTCL6w==",
+      "type": "package",
+      "path": "chuongmep.revit.api.revitapiui/2024.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.md",
+        "chuongmep.revit.api.revitapiui.2024.1.0.nupkg.sha512",
+        "chuongmep.revit.api.revitapiui.nuspec",
+        "images/PackageIcon.png",
+        "lib/net48/RevitAPIUI.dll",
+        "lib/net48/RevitAPIUI.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Chuongmep.Revit.Api.RevitAPI >= 2024.*",
+      "Chuongmep.Revit.Api.RevitAPIUI >= 2024.*"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\chuongho\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\chuongho\\RiderProjects\\RevitServices\\RevitConsoleCommunication\\RevitConsoleCommunication.csproj",
+      "projectName": "RevitConsoleCommunication",
+      "projectPath": "C:\\Users\\chuongho\\RiderProjects\\RevitServices\\RevitConsoleCommunication\\RevitConsoleCommunication.csproj",
+      "packagesPath": "C:\\Users\\chuongho\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chuongho\\RiderProjects\\RevitServices\\RevitConsoleCommunication\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\chuongho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\chuongho\\Downloads\\Compressed\\Autodesk.DataExchange.3.0.0-beta": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "Chuongmep.Revit.Api.RevitAPI": {
+            "target": "Package",
+            "version": "[2024.*, )"
+          },
+          "Chuongmep.Revit.Api.RevitAPIUI": {
+            "target": "Package",
+            "version": "[2024.*, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

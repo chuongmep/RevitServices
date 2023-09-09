@@ -1,0 +1,5 @@
+C:\Users\chuongho\RiderProjects\RevitServices\RevitServices\obj\Debug\net48\RevitServices.csproj.AssemblyReference.cache
+C:\Users\chuongho\RiderProjects\RevitServices\RevitServices\obj\Debug\net48\RevitServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuongho\RiderProjects\RevitServices\RevitServices\obj\Debug\net48\RevitServices.AssemblyInfoInputs.cache
+C:\Users\chuongho\RiderProjects\RevitServices\RevitServices\obj\Debug\net48\RevitServices.AssemblyInfo.cs
+C:\Users\chuongho\RiderProjects\RevitServices\RevitServices\obj\Debug\net48\RevitServices.csproj.CoreCompileInputs.cache

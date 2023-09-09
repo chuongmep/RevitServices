@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net48</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+        <UseWpf>true</UseWpf>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <DebugType>full</DebugType>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Chuongmep.Revit.Api.RevitAPI" Version="2024.*" />
+        <PackageReference Include="Chuongmep.Revit.Api.RevitAPIUI" Version="2024.*" />
+    </ItemGroup>
+    <ItemGroup>
+      <Reference Include="System.Net.Http" />
+    </ItemGroup>
+
+</Project>
