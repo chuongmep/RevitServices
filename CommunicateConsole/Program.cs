@@ -17,7 +17,7 @@ class Program
                 // Send the "Hello" command to the add-in
                 using (StreamWriter writer = new StreamWriter(pipeClient))
                 {
-                    writer.WriteLine("Hello Revit API");
+                    writer.WriteLine("Hello Revit API, I love you!");
                     writer.Flush();
                     writer.Close();
                 }
