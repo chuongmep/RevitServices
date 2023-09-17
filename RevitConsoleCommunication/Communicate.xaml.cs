@@ -1,9 +1,6 @@
 ﻿using System;
-using System.ComponentModel;
-using System.Diagnostics;
 using System.IO;
 using System.IO.Pipes;
-using System.Text;
 using System.Windows;
 
 namespace RevitConsoleCommunication;
@@ -28,7 +25,7 @@ public partial class Communicate : Window
             pipe.WaitForConnection();
             StreamReader sr = new StreamReader(pipe);
             btnSend.Content = sr.ReadLine();
-            MessageBox.Show(Owner,sr.ReadLine());
+            MessageBox.Show(this,sr.ReadLine());
             pipe.Disconnect();
         }
     }
